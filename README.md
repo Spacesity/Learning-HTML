@@ -1,2 +1,2 @@
 # Learning-HTML
-My journey of HTML projects.
+My journey through HTML projects.
