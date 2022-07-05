@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Learning HTML</title> <!-- This is how to make a Title (This is a comment) -->
+</head>
+<body>
+
+<h2><u>Learning HTML</u></h2>
+
+<h3>Introduction:</h3>
+
+<p>On the 5th of July 2022 during Computer Science class, my friend <em>Ruben</em> introduced me to HTML after creating a small
+joke website about setting a friend <em>Harvey</em>. </p>
+
+<h3>Day 1:</h3>
+
+<p>Today is 05/07/2022 and I am at home writing this Day 1 paragraph. So far, i've learnt: 
+
+<ul style=“list-style-type:square">
+
+<li>The basic Syntax (Starting each element with greaterthan/equal too with element in between and ending it with an additional dash instead)</li>
+<li>Structure of text (head, title, body, paragraphs(p) etc)</li>
+<li>Chaning the type of letters ("strong" for <strong>bold</strong>, "em" for <em>itallics</em> and "u" for <u>underline</u></li>
+<li>How to change elements color (using numbers like 255, 0, 128 etc)</li>
+<li>How to make lists (using li to either use disc or square to bullet point etc)</li>
+
+</ul style=“list-style-type:disc">
+
+I hope that by Day 3 I'll be confident with the basics and move onto using hyperlinks, buttons and changing fonts to make my work more presentable.
+</p>
+
+
+</body>
+</html>
